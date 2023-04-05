@@ -1,0 +1,7 @@
+kc:
+  url:  http://192.168.167.1
+  realm: anorhub
+  client-id: web_app
+  client-secret: web_app
+  username: kc-admin
+  password: kc-admin123
